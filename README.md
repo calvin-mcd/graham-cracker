@@ -1,2 +1,33 @@
 # graham-cracker
- 12u or 10u ortho split pcb
+
+The graham cracker is ortho split pcb using two XIAO BLEs for bluetooth connectivity. The pcb can either be used as 4x6 (12u wide) or 4x5 (10u wide) by breaking off one column of each side. Both smd snd tht diodes as well as a MSK12C02 power switch are supported.
+
+layout is by seirin_blu, pcb design by calvin-mcd.
+
+## Layout
+
+![](https://github.com/calvin-mcd/graham-cracker/blob/main/Images/KLE.png)
+![](https://github.com/calvin-mcd/graham-cracker/blob/main/Images/top.png)
+![](https://github.com/calvin-mcd/graham-cracker/blob/main/Images/bottom.png)
+
+[Link](http://www.keyboard-layout-editor.com/#/gists/5026c1570f390d4676a6853000778447)
+
+## Todo
+
+- [ ] order & test pcb
+- [ ] create zmk firmware
+- [ ] print & test case
+
+## Disclaimer
+
+Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+
+## License
+
+This project is released under the GPL v3 License. Please refer to the LICENCE file.
+
+## Credits
+
+And, as always big thanks to the 40s community!
+
+Any questions, contact calvin0563 on Discord. 
