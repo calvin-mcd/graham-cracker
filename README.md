@@ -14,7 +14,7 @@ layout is by seirin_blu, pcb design by calvin-mcd.
 
 ## Case
 
-seirin_blu will design a case for 3d printing.
+seirin_blu will design a case suitable for 3d printing.
 
 ## Todo
 
