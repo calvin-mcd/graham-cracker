@@ -1,6 +1,6 @@
 # graham-cracker
 
-The graham cracker is ortho split pcb using two XIAO BLEs for bluetooth connectivity. The pcb can either be used as 4x6 (12u wide) or 4x5 (10u wide) by breaking off one column of each side. Both smd snd tht diodes as well as a MSK12C02 power switch are supported.
+The graham cracker is ortho split pcb using two [XIAO BLEs](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) for bluetooth connectivity. The pcb can either be used as 4x6 (12u wide) or 4x5 (10u wide) by breaking off one column of each side. Both smd and tht diodes as well as 2 [MSK12C02](https://www.lcsc.com/product-detail/Toggle-Switches_SHOU-HAN-MSK12C02_C431540.html) power switches are supported.
 
 layout is by seirin_blu, pcb design by calvin-mcd.
 
