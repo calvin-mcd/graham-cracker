@@ -12,6 +12,10 @@ layout is by seirin_blu, pcb design by calvin-mcd.
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/5026c1570f390d4676a6853000778447)
 
+## Case
+
+seirin_blu will design a case for 3d printing.
+
 ## Todo
 
 - [ ] order & test pcb
