@@ -55,7 +55,28 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|129778125|97472500|afc2eb62-cb79-47c4-a550-0567f200965c|983a83c7-0da8-4b64-82bb-09ff4dd81103",
+        "clearance|152003125|97472500|e6d91a81-01d8-491c-b383-52e53f6eb4fe|df89fcd1-3ec0-4604-bb92-c9cd917e932a",
+        "courtyards_overlap|112062501|83487501|46c83fbd-4b72-4672-85cc-0bb685066e1c|ea54fb55-e777-4ac6-bf6f-b767a0d507a0",
+        "courtyards_overlap|121587501|83487501|ea54fb55-e777-4ac6-bf6f-b767a0d507a0|f8534960-4540-4168-b2ff-0de3a6188312",
+        "courtyards_overlap|155718751|83487501|2d403320-f0cd-4595-9d96-42fe47e9704b|3be00768-a088-4d6c-81a2-c467c93569f6",
+        "courtyards_overlap|165243751|83487501|3be00768-a088-4d6c-81a2-c467c93569f6|d448c7ed-f2bf-40df-a886-2ce13501bf87",
+        "hole_clearance|130968750|82232500|e8dfbc8d-f853-415b-953d-2ce262e5d4aa|1a67fa99-0a57-416e-8ec1-983009a4a639",
+        "hole_clearance|174625000|82232500|830865ea-6ac2-432e-9396-daa22e650cb6|bbf32250-81e0-4bcb-8ffc-a0585374f4da",
+        "hole_near_hole|114617500|90487500|8dd8b7dd-3cad-4abe-ba56-a6f5126b1d13|9df905b1-9438-4f8f-9e6c-7472062e7bf5",
+        "hole_near_hole|124142500|90487500|e6d2172c-e85a-496b-9d68-bb76a997b983|ac72b0ce-80e2-4f61-adcd-78bf9f722c29",
+        "hole_near_hole|128587500|82232500|5042ba48-47d1-4042-b9a2-e96b2e4faed6|e8dfbc8d-f853-415b-953d-2ce262e5d4aa",
+        "hole_near_hole|128587500|97472500|afc2eb62-cb79-47c4-a550-0567f200965c|983a83c7-0da8-4b64-82bb-09ff4dd81103",
+        "hole_near_hole|150812500|82232500|e9e4a31f-507a-48bf-8e2c-ab8aa45b45e7|3e255a4b-349b-4f77-b4f6-d9b252d39bff",
+        "hole_near_hole|150812500|97472500|e6d91a81-01d8-491c-b383-52e53f6eb4fe|df89fcd1-3ec0-4604-bb92-c9cd917e932a",
+        "hole_near_hole|158273750|90487500|d6a8b9ad-f54a-41b2-b5db-4c57a6aef1f3|917eb4ad-c926-410a-bdfb-3a96bf6c8bbd",
+        "hole_near_hole|167798750|90487500|2aaa58fe-5923-4dfa-8eb6-f62165a34e5e|a8ff46ed-f269-467f-b8cc-f1ac2696b6e4",
+        "hole_near_hole|238868750|35778250|df80bd5a-b175-4b1d-94c6-e39b540fe3fe|a592b6ec-d9cd-4e8f-a97b-643a754c09aa",
+        "hole_near_hole|42812500|37945250|5fb00ebe-e554-49bf-be98-f22c974b19f1|9275cbc7-2a56-4529-a0bd-3daeb4d93149",
+        "solder_mask_bridge|129778125|97472500|afc2eb62-cb79-47c4-a550-0567f200965c|983a83c7-0da8-4b64-82bb-09ff4dd81103",
+        "solder_mask_bridge|152003125|97472500|e6d91a81-01d8-491c-b383-52e53f6eb4fe|df89fcd1-3ec0-4604-bb92-c9cd917e932a"
+      ],
       "meta": {
         "version": 2
       },
