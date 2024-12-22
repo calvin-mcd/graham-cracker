@@ -37,7 +37,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       15,
@@ -64,8 +63,14 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_fffffffe",
+    "visible_layers": "fffffcf_ffffffff",
     "zone_display_mode": 1
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "graham cracker.kicad_prl",
